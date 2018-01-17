@@ -38,8 +38,6 @@ img{
 }
 </style>
 
-
-
 <body>
 <img src="a.png ">
 <img src="b.png">
@@ -70,7 +68,7 @@ img{
 <hr width =100%>
 
 <h1>lenguaje de señas colombiana LSC</h1> 
-<hr width =100% color:red>
+<hr width =100%>
 
 </body>
 </html> 
